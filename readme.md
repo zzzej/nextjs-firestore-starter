@@ -1,7 +1,6 @@
 # Next.js Firestore starter
   1. Rename <code>.firebase-config</code> to <code>firebase-config.js</code>
   2. Create a firestore collection called <code>registrations</code> if you wanna use the email registration form
-
   3.Now you have access to firestore context like so:
   ```js
   import React, { useContext } from 'react';

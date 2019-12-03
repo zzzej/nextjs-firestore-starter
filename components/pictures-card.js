@@ -1,6 +1,5 @@
 import React from 'react';
 import pictures from '../constants/pictures';
-import Slides from './slides';
 import { light as t } from '../constants/themes';
 
 const PicturesCard = () => (

@@ -30,3 +30,6 @@
   * Update docs
   * Remove css normalization
   * finish design
+
+  This is intended to accelerate my development process by having a base layout with grid and firestore already in place.
+  I figure it may help someone else. 👨‍💻

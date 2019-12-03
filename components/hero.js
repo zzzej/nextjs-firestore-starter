@@ -19,9 +19,7 @@ const Hero = () => {
         </article>
       </section>
 
-
       <RegistrationForm style={{ gridArea: 'form' }} />
-
 
       <Slides className='home-slides' style={{ gridArea: 'illustrations' }}>
         <img src="illustrations/phone-map-pin.svg" alt="" />
@@ -29,20 +27,19 @@ const Hero = () => {
       </Slides>
 
       <style jsx>{`
-      h1 {
-        line-height: 1;
-        font-size: ${t.sizes.biggest};
-        display: block;
-      }
-      #welcome {
-        display: flex;
-        flex-direction: column;
-      }
-      #welcome > * {
-        margin: auto 0px;
-      }
-
-    `}</style>
+        h1 {
+          line-height: 1;
+          font-size: ${t.sizes.biggest};
+          display: block;
+        }
+        #welcome {
+          display: flex;
+          flex-direction: column;
+        }
+        #welcome > * {
+          margin: auto 0px;
+        }
+      `}</style>
     </>
   );
 }

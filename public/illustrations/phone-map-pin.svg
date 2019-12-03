@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="836" height="785" fill="none">
+        <defs />
+        <g clip-path="url(#clip0)">
+          <path fill="url(#paint0_linear)" d="M493 49l-333 1a14 14 0 00-13 14l1 622a14 14 0 0014 13h332a14 14 0 0014-14l-2-622a14 14 0 00-13-14z" opacity=".5" />
+          <path fill="#fff" d="M488 58l-323 1c-7 0-14 6-13 13l1 605c0 8 6 14 14 14l322-1c8 0 14-6 14-14l-1-604c0-8-7-14-14-14z" />
+          <path fill="#66A1EE" d="M415 74a28 28 0 01-28 24H266a28 28 0 01-28-24l-64 1a13 13 0 00-14 13l2 574a13 13 0 0013 13l306-1a13 13 0 0013-13l-1-574a13 13 0 00-13-13h-65z" opacity=".3" />
+          <path stroke="#fff" stroke-miterlimit="10" stroke-width="4" d="M70 113l476 390 6-319-537-19 85 81 538 42L77 429l508 165-2 62-524-31 16 158 230-21L429 0" />
+          <path fill="#DBDBDB" d="M360 81l-74 1-2 2v1l2 2 74-1c2 0 2-1 2-2v-1c0-1 0-2-2-2zM379 86a3 3 0 100-6 3 3 0 000 6z" />
+          <g fill="#26CFE2" opacity=".5">
+            <path d="M102 131h-3v17h3v-17z" opacity=".5" />
+            <path d="M109 141v-3H92v3h17z" opacity=".5" />
+          </g>
+          <g fill="#26CFE2" opacity=".5">
+            <path d="M126 237h-3v17h3v-17z" opacity=".5" />
+            <path d="M133 247v-3h-17v3h17z" opacity=".5" />
+          </g>
+          <g fill="#26CFE2" opacity=".5">
+            <path d="M586 99h-3v17h3V99z" opacity=".5" />
+            <path d="M593 109v-3h-17v3h17z" opacity=".5" />
+          </g>
+          <g fill="#26CFE2" opacity=".5">
+            <path d="M828 161h-3v17h3v-17z" opacity=".5" />
+            <path d="M835 171v-3h-17v3h17z" opacity=".5" />
+          </g>
+          <path fill="#66A1EE" d="M12 230a4 4 0 01-2-5 2 2 0 000-1 2 2 0 00-3 0 4 4 0 01-5 2 2 2 0 00-1 3 4 4 0 012 5 2 2 0 000 1 2 2 0 004 0 4 4 0 014-2 2 2 0 002-3h-1zM768 421a4 4 0 01-2-5 2 2 0 00-3-1 4 4 0 01-5 2 2 2 0 00-1 3 4 4 0 012 5 2 2 0 004 1 4 4 0 014-2 2 2 0 002-3h-1zM715 116a4 4 0 01-2-5 2 2 0 00-3-1 4 4 0 01-5 2 2 2 0 00-1 3 4 4 0 012 5 2 2 0 004 1 4 4 0 014-2 2 2 0 002-3h-1zM739 290a4 4 0 01-2-5 2 2 0 00-3-1 4 4 0 01-5 2 2 2 0 00-1 3 4 4 0 012 5 2 2 0 004 1 4 4 0 014-2 2 2 0 002-3h-1z" opacity=".5" />
+          <path fill="#FB7855" d="M72 426a6 6 0 100-12 6 6 0 000 12z" opacity=".5" />
+          <path fill="#66A1EE" d="M584 228a6 6 0 100-12 6 6 0 000 12z" opacity=".5" />
+          <path fill="#26CFE2" d="M633 380a6 6 0 100-12 6 6 0 000 12z" opacity=".5" />
+          <path fill="#FB7855" d="M13 64a6 6 0 100-12 6 6 0 000 12z" opacity=".5" />
+          <path fill="#66A1EE" d="M586 241l-23 1 1 28 23-1-1-28z" />
+          <path fill="#FFB9B9" d="M485 341s-30-15-30-2 31 21 31 21l-1-19z" />
+          <path fill="#2F2E41" d="M502 448s-14 36-20 62c-5 25-13 61-3 86 11 25 41 98 41 106s-3 16 4 16c6 0 41-11 42-16s-12-17-12-17l-32-102 34-67 24 99 5 124s24-7 27-1c0 0 11-14 12-21 1-6-5-128-5-128s22-140 4-139c-17 1-86-41-121-2z" />
+          <path fill="#2F2E41" d="M524 711l-18 38c-2 1-12 18-4 17 8 0 26-9 40-22s32-36 31-38l-13-5-36 10zM588 731s-1 16-4 23c-3 6-3 16 5 15 8 0 29-4 29-4s1-10-1-11c-1-2-8-19-5-24s-24 1-24 1z" />
+          <path fill="#FFB9B9" d="M600 214l23 33c7 6-12 19-12 19l-33 5-1-34c-2-3 23-23 23-23z" />
+          <path fill="#66A1EE" d="M571 249s7 12 13 12 39-14 41-19c1-5 10 34 10 34l-80 142-20-14 10-83 8-45 18-27z" />
+          <path fill="#575A89" d="M628 375a44 44 0 00-5 22c0 15 6 32 8 44 1 9 1 15-4 17-13 4 1 6-47 22-49 17-57 3-58-1 0-3 7-27 6-28-2-2-23 20-30 17-6-3-1-19-1-19s15-34 15-42c-1-8 22-46 22-46l15-99s6-13 14-15 14 3 14 3l-13 29-14 51 2 19s17-34 27-47l33-44s6-18 2-23 16-6 25 16l17 45c4 14 6 27 2 35-6 12-22 27-30 44z" />
+          <path fill="#000" d="M658 331c-6 12-22 27-30 44l-5-16s-10-53 19-67c5-1 10 1 14 4 4 14 6 27 2 35z" opacity=".1" />
+          <path fill="#575A89" d="M540 328l-25 7-35 1-3 31 57 4s14-40 6-43z" />
+          <path fill="#FFB9B9" d="M581 430s-33 5-26 15c8 11 38 0 38 0l-12-15z" />
+          <path fill="#000" d="M623 397c0 15 6 32 8 44-11 10-21 19-25 19-8 1-21-1-25 1-5 2-8-28-8-28s3-10 15-15c9-4 25-13 35-21z" opacity=".1" />
+          <path fill="#575A89" d="M642 282s27-4 25 41c-1 44 3 73-8 81-10 8-45 46-53 47-8 0-21-1-26 1-4 1-7-29-7-29s3-9 15-15c13-5 42-23 42-30 0-6-8-28-8-28s-10-54 20-68z" />
+          <path fill="#FFB9B9" d="M576 253a35 35 0 100-70 35 35 0 000 70z" />
+          <path fill="#2F2E41" d="M552 168l-3 2a2 2 0 01-2-2l-3 4c-2 1-4 0-5-2l-1 4h-4v12c1 4 2 8 5 11 4 4 11 3 16 2h3c2 1 2 4 2 7a17 17 0 0015 16c2 0 5 0 7-2l4-4c3-2 7 1 9 3 2 3 4 6 8 7 4 0 8-4 10-9a48 48 0 00-1-37c-10-21-42-24-60-12z" />
+          <path fill="url(#paint1_linear)" d="M445 251c-5 33-74 103-74 103s-52-87-47-120a61 61 0 11121 17z" />
+          <path fill="url(#paint2_linear)" d="M441 252c-5 31-69 97-69 97s-49-82-45-113a57 57 0 11114 16z" />
+          <path fill="#fff" d="M413 243a29 29 0 10-57-8 29 29 0 0057 8z" />
+        </g>
+        <defs>
+          <linearGradient id="paint0_linear" x1="185.9" x2="468.8" y1="710.7" y2="38.2" gradientUnits="userSpaceOnUse">
+            <stop stop-color="gray" stop-opacity=".3" />
+            <stop offset=".5" stop-color="gray" stop-opacity=".1" />
+            <stop offset="1" stop-color="gray" stop-opacity=".1" />
+          </linearGradient>
+          <linearGradient id="paint1_linear" x1="58821.1" x2="62951.4" y1="78962" y2="49161" gradientUnits="userSpaceOnUse">
+            <stop stop-color="gray" stop-opacity=".3" />
+            <stop offset=".5" stop-color="gray" stop-opacity=".1" />
+            <stop offset="1" stop-color="gray" stop-opacity=".1" />
+          </linearGradient>
+          <linearGradient id="paint2_linear" x1="372.5" x2="412.5" y1="338" y2="125" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#66A1EE" />
+            <stop offset="1" stop-color="#26CFE2" />
+          </linearGradient>
+          <clipPath id="clip0">
+            <path fill="#fff" d="M0 0h835v785H0z" />
+          </clipPath>
+        </defs>
+      </svg>

@@ -1,0 +1,11 @@
+// TODO: rename to firebase-config.js and replace keys
+export default {
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
+};
